@@ -7,5 +7,3 @@ abdu
 
 # testing
 
-dktgosdrijg
-
